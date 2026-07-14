@@ -9,11 +9,11 @@ product experiments. Most come with a quick video on
 
 ## Current projects
 
-- 🚇 **[London Tube Delay Tracker](https://github.com/Gesmans/london-tube-delay-tracker)** — real-time line status
+- **[London Tube Delay Tracker](https://github.com/Gesmans/london-tube-delay-tracker)** — real-time line status
   on a Raspberry Pi, pulling from the TfL API to drive RGB LEDs and an LCD
-- 🛰️ **[ISS Tracker](https://github.com/Gesmans/iss-tracker-rpi)** — live position, distance, and crew
+- **[ISS Tracker](https://github.com/Gesmans/iss-tracker-rpi)** — live position, distance, and crew
   count for the International Space Station, on dedicated hardware
-- 🤖 **[Job Search Agent](https://github.com/Gesmans/Job-Search-Agent)** — an AI agent built on Claude's 
+- **[Job Search Agent](https://github.com/Gesmans/Job-Search-Agent)** — an AI agent built on Claude's 
   API that matches roles against a CV
 
 ## Toolkit
