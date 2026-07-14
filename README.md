@@ -22,4 +22,4 @@ Python · Node.js · Raspberry Pi · REST APIs · Claude API · Git
 
 ## Find me
 
-[LinkedIn](https://www.linkedin.com/in/gerard-marshall-959106ba/) · [DGM Solutions](https://dgmsolutions.co.uk/) · [CineSpirit on YouTube](https://www.youtube.com/channel/UCLRFcjsMjpupeLcU-gohlNA)
+[LinkedIn](https://www.linkedin.com/in/gerard-marshall-959106ba/) · [DGM Solutions](https://dgmsolutions.co.uk/) · [CineSpirit on YouTube](https://www.youtube.com/channel/UCLRFcjsMjpupeLcU-gohlNA) · [CineSpirit on TikTok](https://www.tiktok.com/@cinespirit)
