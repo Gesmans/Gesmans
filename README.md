@@ -13,7 +13,7 @@ product experiments. Most come with a quick video on
   on a Raspberry Pi, pulling from the TfL API to drive RGB LEDs and an LCD
 - 🛰️ **[ISS Tracker](https://github.com/Gesmans/iss-tracker-rpi)** — live position, distance, and crew
   count for the International Space Station, on dedicated hardware
-- 🤖 **[Job Search Agent](https://github.com/Gesmans/Job-Search-Agent)** — an AI agent built on Claude'sAn 
+- 🤖 **[Job Search Agent](https://github.com/Gesmans/Job-Search-Agent)** — an AI agent built on Claude's 
   API that matches roles against a CV
 
 ## Toolkit
