@@ -13,21 +13,13 @@ I work at the intersection of product and engineering — defining what to build
 
 ## Current projects
 
-- **[London Tube Delay Tracker](https://github.com/Gesmans/london-tube-delay-tracker)** — real-time line status
-  on a Raspberry Pi, pulling from the TfL API to drive RGB LEDs and an LCD
-- **[ISS Tracker](https://github.com/Gesmans/iss-tracker-rpi)** — live position, distance, and crew
-  count for the International Space Station, on dedicated hardware
-- **[Job Search Agent](https://github.com/Gesmans/Job-Search-Agent)** — an AI agent built on Claude's 
-  API that matches roles against a CV
+- **[London Tube Delay Tracker](https://github.com/Gesmans/london-tube-delay-tracker)** — real-time line status on a Raspberry Pi, pulling from the TfL API to drive RGB LEDs and an LCD
+- **[ISS Tracker](https://github.com/Gesmans/iss-tracker-rpi)** — live position, distance, and crew count for the International Space Station, on dedicated hardware
+- **[Job Search Agent](https://github.com/Gesmans/Job-Search-Agent)** — an AI agent built on Claude's API that matches roles against a CV
 
 ## Toolkit
 
-Python · Node.js · Raspberry Pi · REST APIs · Claude API · Git
-
-## Stats
- 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gesmans&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gesmans&layout=compact&theme=default)
+Python · Node.js · Raspberry Pi · REST APIs · Claude API · Git 
 
 ## Get in touch
 
