@@ -21,8 +21,6 @@ I work in product and with engineering — defining what to build and why, with 
 
 Python · Node.js · Raspberry Pi · REST APIs · Claude API · Git 
 
-## Get in touch
-
-Open to collaborating on open source projects and connecting with others working across product and engineering.
+## Find Out More
 
 [LinkedIn](https://www.linkedin.com/in/gerard-marshall-959106ba/) · [DGM Solutions](https://dgmsolutions.co.uk/) · [CineSpirit on YouTube](https://www.youtube.com/channel/UCLRFcjsMjpupeLcU-gohlNA) · [CineSpirit on TikTok](https://www.tiktok.com/@cinespirit)
