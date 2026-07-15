@@ -6,10 +6,10 @@ I work in product and with engineering — defining what to build and why, with 
 
 ## What I do
  
-- **Product strategy & discovery**: Turning problems into clear roadmaps and shipped features
-- **Rapid prototyping**: Building functional demos to validate ideas before committing engineering resources
-- **Technical translation**: Bridging stakeholders, engineers, and users with a shared understanding
-- **Hands-on engineering**: Personal projects and prototypes
+- **Product strategy & discovery** - Turning problems into clear roadmaps and shipped features
+- **Rapid prototyping** - Building functional demos to validate ideas before committing engineering resources
+- **Technical translation** - Bridging stakeholders, engineers, and users with a shared understanding
+- **Hands-on engineering** - Developing personal projects and prototypes
 
 ## Current projects
 
