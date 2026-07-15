@@ -1,11 +1,15 @@
 # Hi, I'm Gerard
 
-**Technical Product Manager. I build prototypes to understand what I ask engineers to ship.**
+**Technical Product Manager** with hands-on engineering experience.
+ 
+I work at the intersection of product and engineering — defining what to build and why, with enough technical depth to prototype my own ideas. Whether it's validating a concept with a working demo or building personal projects end-to-end, I believe the best product decisions come from understanding both the user and the codebase.
 
-By day, I work in product discovery, delivery, and everything in between.
-This profile is where I get hands-on: hardware builds, AI agents, and
-product experiments. Most come with a quick video on
-[CineSpirit](https://www.youtube.com/channel/UCLRFcjsMjpupeLcU-gohlNA), where I present the project capabilities.
+## What I do
+ 
+- **Product strategy & discovery** — turning problems into clear roadmaps and shipped features
+- **Rapid prototyping** — building functional demos to validate ideas before committing engineering resources
+- **Technical translation** — bridging stakeholders, engineers, and users with a shared understanding
+- **Hands-on engineering** — personal projects and prototypes
 
 ## Current projects
 
@@ -20,6 +24,13 @@ product experiments. Most come with a quick video on
 
 Python · Node.js · Raspberry Pi · REST APIs · Claude API · Git
 
-## Find me
+## Stats
+ 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gesmans&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gesmans&layout=compact&theme=default)
+
+## Get in touch
+
+Open to collaborating on open source projects and connecting with others working across product and engineering.
 
 [LinkedIn](https://www.linkedin.com/in/gerard-marshall-959106ba/) · [DGM Solutions](https://dgmsolutions.co.uk/) · [CineSpirit on YouTube](https://www.youtube.com/channel/UCLRFcjsMjpupeLcU-gohlNA) · [CineSpirit on TikTok](https://www.tiktok.com/@cinespirit)
