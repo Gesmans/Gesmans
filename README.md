@@ -2,14 +2,14 @@
 
 **Technical Product Manager** with hands-on engineering experience.
  
-I work at the intersection of product and engineering — defining what to build and why, with enough technical depth to prototype my own ideas. Whether it's validating a concept with a working demo or building personal projects end-to-end, I believe the best product decisions come from understanding both the user and the codebase.
+I work in product and with engineering — defining what to build and why, with enough technical depth to prototype my own ideas. Whether it's validating a concept with a working demo or building personal projects end-to-end, I believe the best product decisions come from understanding both the user and the codebase.
 
 ## What I do
  
-- **Product strategy & discovery** — turning problems into clear roadmaps and shipped features
-- **Rapid prototyping** — building functional demos to validate ideas before committing engineering resources
-- **Technical translation** — bridging stakeholders, engineers, and users with a shared understanding
-- **Hands-on engineering** — personal projects and prototypes
+- **Product strategy & discovery**: Turning problems into clear roadmaps and shipped features
+- **Rapid prototyping**: Building functional demos to validate ideas before committing engineering resources
+- **Technical translation**: Bridging stakeholders, engineers, and users with a shared understanding
+- **Hands-on engineering**: Personal projects and prototypes
 
 ## Current projects
 
