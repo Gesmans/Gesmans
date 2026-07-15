@@ -26,8 +26,8 @@ Python · Node.js · Raspberry Pi · REST APIs · Claude API · Git
 
 ## Stats
  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gesmans&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gesmans&layout=compact&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gesmans&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gesmans&layout=compact&theme=default)
 
 ## Get in touch
 
